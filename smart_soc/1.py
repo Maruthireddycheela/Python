@@ -22,10 +22,11 @@ reversed_string = "Hello"
 print("reverse_string:", reverse_string(reversed_string))
 
 
-
+"""
 # 2nd method
 
 def reverse_string(s):
     return s[::-1]
 rev = "Hello"
 print("reversed_string:", reverse_string(rev))
+"""
